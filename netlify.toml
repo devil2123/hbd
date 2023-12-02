@@ -6,4 +6,4 @@
 [build.environment]
   NAME = "Subhasree"
   PIC = "https://res.cloudinary.com/dw2h36vj0/image/upload/v1701486111/qsvfpexrdukdgvxzdfls.jpg"
-  SCROLL_MSG='sample-scroll.txt'
+  SCROLL_MSG= "sample-scroll.txt"
