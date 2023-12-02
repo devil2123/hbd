@@ -1,0 +1,8 @@
+[build]
+  base = "./"
+  publish = "./dist/"
+  command = "npm run build"
+
+[template.environment]
+  NAME = "Subhasree"
+  PIC = "https://images.app.goo.gl/vMEZgq22uRoDJmun8"
